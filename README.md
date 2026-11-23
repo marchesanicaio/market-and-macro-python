@@ -24,6 +24,7 @@ Data gets revised. Yahoo Finance fills gaps and adjusts old closes, and FRED rev
 | `value-at-risk-backtest.py` | [Value at risk in practice: how often it fails, with real data](https://caiomarchesani.com/articles/value-at-risk-in-practice/) | Yahoo Finance (^GSPC, BTC-USD) |
 | `60-40-portfolio-value-at-risk.py` | [The 60/40 portfolio’s value at risk, tested on 23 years of data](https://caiomarchesani.com/articles/60-40-portfolio-value-at-risk/) | Yahoo Finance (SPY, IEF) |
 | `position-size-drawdowns.py` | [Can you teach me how to trade?](https://caiomarchesani.com/articles/can-you-teach-me-how-to-trade/) | none (simulated with NumPy) |
+| `vix-term-structure.py` | [The VIX term structure: fifty inversions and what came after](https://caiomarchesani.com/articles/vix-term-structure-inversions/) | Yahoo Finance (^VIX, ^VIX3M, ^GSPC) |
 
 ### Correlation and spreads
 
