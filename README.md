@@ -40,6 +40,8 @@ Data gets revised. Yahoo Finance fills gaps and adjusts old closes, and FRED rev
 |---|---|---|
 | `crack-spread-3-2-1.py` | [How refinery margins work: the 3-2-1 crack spread explained](https://caiomarchesani.com/articles/crack-spread-explained/) | Yahoo Finance (CL=F, RB=F, HO=F) |
 | `resin-output-and-manufacturing.py` | [Ethylene cracker utilisation: the leading indicator nobody outside oil has heard of](https://caiomarchesani.com/articles/learning-about-trading-indicators-1/) | FRED (IPN325211N, IPMAN) |
+| `refinery-yields.py` | [Refinery yields since 1993: the barrel has moved from 2:1 to 3:2](https://caiomarchesani.com/articles/refinery-yield-barrel-of-crude/) | EIA (monthly US refinery yields) |
+| `brent-wti-spread.py` | [The Brent-WTI spread: why the physical gap hit $37 in 2026](https://caiomarchesani.com/articles/brent-wti-spread/) | FRED (DCOILBRENTEU, DCOILWTICO), Yahoo Finance (BZ=F, CL=F) |
 
 ### Macro
 
