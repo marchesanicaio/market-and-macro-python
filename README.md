@@ -54,6 +54,12 @@ Data gets revised. Yahoo Finance fills gaps and adjusts old closes, and FRED rev
 | `yield-curve-recession-signal.py` | [The yield curve as a recession signal: what fifty years show](https://caiomarchesani.com/articles/yield-curve-recession-signal/) | FRED (T10Y2Y, T10Y3M, GS10, TB3MS, DGS10, DGS2, THREEFYTP10, FEDFUNDS, TDSP, UNRATE, USREC) |
 | `gold-and-real-yields.py` | [Gold and real yields: the model that stopped working in 2022](https://caiomarchesani.com/articles/gold-and-real-yields/) | FRED (DFII10, DTWEXBGS) and Yahoo Finance (GC=F) |
 
+### Trade
+
+| File | Article | Data |
+|---|---|---|
+| `acai-exports-brazil.py` | [Where Brazil’s acai goes, and why the official figures miss most of it](https://caiomarchesani.com/articles/acai-exports-brazil/) | Comex Stat API (Brazil, NCM export codes) |
+
 New scripts are added here as new articles go up. The same scripts are also collected on [OSF](https://osf.io/abrdp/), and several run in the browser as [Kaggle notebooks](https://www.kaggle.com/caiomarchesani).
 
 If a script stops working because a data source has changed, or a figure no longer matches, the [contact page](https://caiomarchesani.com/contact/) is the place to tell me.
